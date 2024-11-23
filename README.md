@@ -99,6 +99,7 @@ Add the following secret keys to your application:
 ```text
 MONGODB_URI=mongodb+srv://<username>:<password>@sei-w0kys.azure.mongodb.net/hoot?retryWrites=true
 JWT_SECRET=supersecret
+SALT_ROUNDS=10
 ```
 
 > If you are unsure of where to obtain your MongoDB URI, please refer to the MongoDB Atlas Setup Lab.
