@@ -2,11 +2,7 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
-
-```bash
-cd ~/code/ga/lectures
-```
+Open your Terminal application and navigate to your projects codespace directory:
 
 ## Cloning the Auth boilerplate
 
