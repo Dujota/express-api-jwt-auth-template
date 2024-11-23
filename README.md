@@ -1,4 +1,4 @@
-# ![Express API - Hoot Back-End - Setup](./assets/hero.png)
+# Express API - JWT Auth Back-End - Setup
 
 ## Setup
 
@@ -110,7 +110,7 @@ JWT_SECRET=supersecret
 Start the application with the following command:
 
 ```bash
-nodemon server.js
+npm run dev
 ```
 
 Happy Coding!
